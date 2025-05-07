@@ -8,9 +8,5 @@
 - **Pangenome:** Construction of graph-based pangenomes for analyzing genomic diversity.
 - **Bioinformatics Tool Development:** Designing efficient algorithms and pipelines for genomic data analysis.
 
-## 🌟 Skills
-- Python, R, Shell scripting
-- Genomic data analysis (VCF, BED, FASTA/FASTQ ...)
-
 ## 📫 Contact
 - **Email:** yangqimeng99@163.com
